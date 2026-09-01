@@ -4,7 +4,7 @@
 # 你的 Google Scholar 主页链接
 # 格式: https://scholar.google.com/citations?user=XXXXX
 # 或者只需要填 XXXXX 部分
-SCHOLAR_URL = "https://scholar.google.com/citations?user=LYNKm_8AAAAJ"
+SCHOLAR_URL = "https://scholar.google.com/citations?user=GK-Oor4AAAAJ"
 # ============================================
 
 # 从 URL 提取 Scholar ID
